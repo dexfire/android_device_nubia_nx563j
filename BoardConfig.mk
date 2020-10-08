@@ -27,7 +27,7 @@ TARGET_OTA_ASSERT_DEVICE := NX563J,nx563j
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Kernel
-TARGET_KERNEL_CONFIG := rr_nx563j_defconfig
+TARGET_KERNEL_CONFIG := rros_nx563j_defconfig
 
 # Partitions
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
