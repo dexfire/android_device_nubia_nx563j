@@ -427,6 +427,14 @@ etc/firmware/nubia_tp_jdi_fw.img:vendor/firmware/nubia_tp_jdi_fw.img
 # Widevine - from NX609J - OPM1.171019.011 factory image
 vendor/lib/mediadrm/libwvdrmengine.so|6d0a89adc41c008a567658459ec460a301813c7d
 
+# QTI Services
+app/QTIDiagServices/QTIDiagServices.apk
+app/QtiSystemService/QtiSystemService.apk
+app/QtiTelephonyService/QtiTelephonyService.apk
+app/QtiSystemService/QtiSystemService.apk
+app/remotesimlockservice/remotesimlockservice.apk
+app/SimSettings/SimSettings.apk
+
 # Misc
 vendor/firmware/Generic_unsigned.ncd
 vendor/firmware/Generic_unsigned_119_1.ncd
